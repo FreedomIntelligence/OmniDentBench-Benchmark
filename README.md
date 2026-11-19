@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> OmniDentBench has moved to [FreedomIntelligence/OmniDentBench](https://github.com/FreedomIntelligence/OmniDentBench). The canonical repository contains the dataset, evaluator, and project website. Existing tags and past releases remain available here.
+
 <p align="center">
   <a href="https://freedomintelligence.github.io/OmniDentBench/"><img src="https://freedomintelligence.github.io/OmniDentBench/images/logo.png" alt="OmniDentBench logo" width="112"></a>
 </p>
